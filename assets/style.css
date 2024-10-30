@@ -1,0 +1,34 @@
+.wpsocial-icon {
+    margin: 0 0 0 5px;
+    display: inline-block;
+    width: 12px;
+    border-radius: 50%;
+    height: 12px;
+}
+
+.wpsocial-icon.ok {
+    background-color: #ee7c1b
+}
+
+.wpsocial-icon.bad {
+    background-color: #e83434
+}
+
+.wpsocial-icon.na {
+    background-color: #888
+}
+
+.wpsocial-icon.good {
+    background-color: #7ad03a
+}
+
+.wpsocial-wrapper {
+    display: table;
+    width: 100%
+}
+
+.wpsocial-main {
+    display: table-cell;
+    min-width: 400px;
+    vertical-align: top;
+}
